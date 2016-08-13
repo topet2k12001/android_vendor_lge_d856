@@ -21,4 +21,4 @@ PRODUCT_PACKAGES += \
 		com.broadcom.bt \
 		com.broadcom.fm
 
-$(call inherit-product, vendor/lge/d856/d856-vendor-blobs.mk)
+$(call inherit-product, vendor/lge/d858hk/d858hk-vendor-blobs.mk)
